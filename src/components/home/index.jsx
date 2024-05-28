@@ -1,5 +1,5 @@
 import "./style.scss";
-import book_image from "../../assets/book2.jpg";
+import book_image from "../../assets/book.jpg";
 import { IoIosStar } from "react-icons/io";
 import { IoIosStarHalf } from "react-icons/io";
 

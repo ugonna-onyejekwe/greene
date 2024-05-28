@@ -1,5 +1,5 @@
 import "./style.scss";
-import book_image from "../../assets/book2.jpg";
+import book_image from "../../assets/book.jpg";
 import { useState } from "react";
 
 export const Get_book_section = () => {
@@ -7,7 +7,7 @@ export const Get_book_section = () => {
   const [secs, setSecs] = useState(59);
 
   setTimeout(() => {
-    secs === 1 ? setSecs(59) : setSecs(secs - 1);
+    secs === 0 ? setSecs(59) : setSecs(secs - 1);
   }, 1000);
 
   setTimeout(() => {
