@@ -16,7 +16,7 @@ export const Get_book_section = () => {
 
   return (
     <>
-      <div className="get_book_section">
+      <div className="get_book_section" id="get-book">
         <div className="container">
           <div className="txt_con">
             <h2>learn to build your brand</h2>
