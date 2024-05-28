@@ -6,7 +6,7 @@ import authur_image from "../../assets/authur.jpg";
 export const Authur_section = () => {
   return (
     <>
-      <section className="authur_section">
+      <section className="authur_section" id="authur">
         <div className="container">
           <div className="img_con">
             <img src={authur_image} alt="authur image" />

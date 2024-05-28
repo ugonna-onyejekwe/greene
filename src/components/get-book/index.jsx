@@ -12,7 +12,7 @@ export const Get_book_section = () => {
 
   setTimeout(() => {
     mins === 0 ? setMins(5) : setMins(mins - 1);
-  }, 1000 * 59);
+  }, 1000 * 60);
 
   return (
     <>

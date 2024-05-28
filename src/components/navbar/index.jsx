@@ -20,13 +20,10 @@ export const NavBar_section = () => {
             <div className="menu_btn close" onClick={() => setIsActive(false)}>
               <IoMdClose className="icon" />
             </div>
-            <Link to="#home" activec>
-              home
-            </Link>
             <a href="#home">home</a>
-            <NavLink to="#about-book">about book</NavLink>
-            <NavLink to="#authur">authur</NavLink>
-            <NavLink to="#reviews">reviews </NavLink>
+            <a href="#about-book">about book</a>
+            <a href="#authur">authur</a>
+            <a href="#reviews">reviews </a>
           </div>
 
           <div className="menu_btn open" onClick={() => setIsActive(true)}>
