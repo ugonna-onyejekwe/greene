@@ -1,5 +1,5 @@
 import "./style.scss";
-import book_image from "../../assets/book.jpg";
+import book_image from "../../assets/book2.jpg";
 import { useState } from "react";
 
 export const Get_book_section = () => {

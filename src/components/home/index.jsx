@@ -1,5 +1,5 @@
 import "./style.scss";
-import book_image from "../../assets/book.jpg";
+import book_image from "../../assets/book2.jpg";
 import { IoIosStar } from "react-icons/io";
 import { IoIosStarHalf } from "react-icons/io";
 
@@ -36,7 +36,14 @@ export const Home = () => {
                 </div>
               </div>
             </div>
-            <h1>the alchemy of fame</h1>
+            <small> secrets to creating</small>
+            <h1>
+              viral content <small> and</small>
+            </h1>
+            <h1>getting monitized</h1>
+            <h1>
+              <small> on</small> facebook
+            </h1>
             <p className="briefing">
               Transforming content into wealth using socail media. Crack the
               code to viral content, branding, monetization and influence to
