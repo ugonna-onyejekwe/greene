@@ -1,36 +1,23 @@
 export const book_content_info = [
-  {
-    topic: "introduction",
-    subTopic: ["branding", "conquering", "selling", "buying", "pricing"],
-  },
-  {
-    topic: "topic 1",
-    subTopic: ["branding", "conquering", "selling", "buying", "pricing"],
-  },
-  {
-    topic: "topic 2",
-    subTopic: ["branding", "conquering", "selling", "buying", "pricing"],
-  },
-  {
-    topic: "topic 3",
-    subTopic: ["branding", "conquering", "selling", "buying", "pricing"],
-  },
-  {
-    topic: "topic 4",
-    subTopic: ["branding", "conquering", "selling", "buying", "pricing"],
-  },
-  {
-    topic: "topic 5",
-    subTopic: ["branding", "conquering", "selling", "buying", "pricing"],
-  },
-  {
-    topic: "topic 6",
-    subTopic: ["branding", "conquering", "selling", "buying", "pricing"],
-  },
-  {
-    topic: "topic 7",
-    subTopic: ["branding", "conquering", "selling", "buying", "pricing"],
-  },
+  "The future in your hands",
+  "Where is the money",
+  "The attention economy",
+  "The historical evolution of the attention economy",
+  "Money, power and influence: The value of what people's attention can get you",
+  "Choosing the right platform to farm attention and build a strong following",
+  "Social media algorithms by platform",
+  "10 tips for staying ahead of the algorithm and optimizing your content",
+  "Refined steps to build an online brand for yourself, your business or a product",
+  'Using your physical "super" trait for easy attention',
+  "Utilizing the theory of modelling to brand yourself",
+  "The science of subconscious branding",
+  "Element of good content creation",
+  "Understanding  different human emotion, tiggers and expressions",
+  "Application of emotional states in contents",
+  "Energy are contagious: The psychology",
+  "Know the game and let the game know you",
+  "Case study: The Tate model of branding",
+  "Facebook moneitization in Nigeria: A comprehesive guide",
 ];
 
 export const bookBenefits = [

@@ -1,6 +1,7 @@
 import "./style.scss";
 import book_image from "../../assets/book.jpg";
 import { useState } from "react";
+import { TbCurrencyNaira } from "react-icons/tb";
 
 export const Get_book_section = () => {
   const [mins, setMins] = useState(5);
@@ -28,7 +29,19 @@ export const Get_book_section = () => {
             <div className="offer_section">
               <h4>special offer</h4>
               <h3>
-                $3000 <span>$5000</span>
+                <span>
+                  <small>
+                    <TbCurrencyNaira />
+                  </small>
+                  3,000
+                </span>
+
+                <span>
+                  <small>
+                    <TbCurrencyNaira />
+                  </small>
+                  5,000
+                </span>
               </h3>
             </div>
 

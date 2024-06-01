@@ -45,16 +45,44 @@
       }
 
       h3 {
-        padding-top: 10px;
         display: flex;
         align-items: center;
         gap: 10px;
-        font-size: 25px;
 
         span {
-          font-size: 15px;
-          text-decoration: line-through;
-          color: rgb(104, 103, 103);
+          &:first-child {
+            display: flex;
+            align-items: center;
+            font-size: 25px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0;
+
+            small {
+              font-size: 30px;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+            }
+          }
+
+          &:last-child {
+            font-size: 15px;
+            text-decoration: line-through;
+            color: rgb(104, 103, 103);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            small {
+              font-size: 20px;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              padding-top: 1px;
+            }
+          }
         }
       }
 

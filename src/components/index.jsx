@@ -5,6 +5,7 @@ import { Reviews_section } from "./review-section";
 import { Get_book_section } from "./get-book";
 import { Footer_section } from "./footer";
 import { NavBar_section } from "./navbar";
+import { SecondBookSection } from "./second-book-section/index.jsx";
 
 export {
   Home,
@@ -14,4 +15,5 @@ export {
   Reviews_section,
   Get_book_section,
   Footer_section,
+  SecondBookSection,
 };

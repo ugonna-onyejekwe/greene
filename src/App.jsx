@@ -8,6 +8,7 @@ import {
   Home,
   NavBar_section,
   Reviews_section,
+  SecondBookSection,
 } from "./components";
 
 function App() {
@@ -30,6 +31,9 @@ function App() {
 
       {/* buy book section */}
       <Get_book_section />
+
+      {/* second book section */}
+      <SecondBookSection />
 
       {/* footer section */}
       <Footer_section />
