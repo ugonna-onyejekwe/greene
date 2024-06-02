@@ -83,3 +83,29 @@ export const bookBenefits = [
 
   "Learn where the modern wealth is hidden.",
 ];
+
+export const bookBenefits2 = [
+  "Comprehensive understanding of wealth creation.",
+
+  "Insight into the real definition of wealth beyond just financial gains.",
+
+  "Knowledge of the fundamental skills and mindset needed for identifying and capitalizing on money-earning opportunities in various markets.",
+
+  "Ability to differentiate between small-scale and large-scale opportunities and understand their potential impacts.",
+
+  "Importance of being a perpetual learner and developing a keen sense of observation and analysis.",
+
+  "Understanding of human psychological needs based on Maslow's hierarchy.",
+
+  "Strategies for fulfilling higher human needs and understanding that the higher the human need being fulfilled, the higher the money being earned.",
+
+  "Identification of niches that align with future trends and how to leverage them for wealth creation.",
+
+  "Encouragement to innovate within existing businesses by incorporating technological advancements.",
+
+  "Case studies of successful businesses and entrepreneurs who have addressed high-level needs and achieved significant wealth.",
+
+  "Examples of how social media platforms and luxury brands fulfill higher human needs and command substantial market value.",
+
+  "Tips for applying the knowledge gained from the book to real-world scenarios.",
+];

@@ -1,7 +1,20 @@
 import "./style.scss";
 import book_image from "../../assets/book.jpg";
+import book_image2 from "../../assets/book2.jpg";
 import { useState } from "react";
 import { TbCurrencyNaira } from "react-icons/tb";
+import { MdKeyboardArrowRight } from "react-icons/md";
+import { MdKeyboardArrowLeft } from "react-icons/md";
+
+// import Swiper core and required modules
+import { Navigation, Autoplay } from "swiper/modules";
+
+import { Swiper, SwiperSlide } from "swiper/react";
+
+// Import Swiper styles
+import "swiper/css";
+import "swiper/css/navigation";
+import "swiper/css/autoplay";
 
 export const Get_book_section = () => {
   const [mins, setMins] = useState(5);
@@ -24,8 +37,44 @@ export const Get_book_section = () => {
             <p className="txt">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde
               deserunt ipsum quas neque voluptas pariatur exercitationem quia,
+              verit ipsum quas neque voluptas pariatur exercitationem quia,
+              verit ipsum quas neque voluptas pariatur exercitationem quia,
               verit
             </p>
+
+            {/* img swipper */}
+            <div className="img_wrapper">
+              <div className="wrapper">
+                <Swiper
+                  modules={[Navigation, Autoplay]}
+                  spaceBetween={20}
+                  slidesPerView={1}
+                  navigation={{
+                    prevEl: ".left",
+                    nextEl: ".right",
+                  }}
+                  autoplay={{ delay: 3000 }}
+                  speed={700}
+                  className="img_con"
+                >
+                  <SwiperSlide className="img">
+                    <img src={book_image} alt="book image" />
+                  </SwiperSlide>
+                  <SwiperSlide className="img">
+                    <img src={book_image2} alt="book image" />
+                  </SwiperSlide>
+                </Swiper>
+
+                <span className="nav_btn left">
+                  <MdKeyboardArrowLeft />
+                </span>
+
+                <span className="nav_btn right">
+                  <MdKeyboardArrowRight />
+                </span>
+              </div>
+            </div>
+
             <div className="offer_section">
               <h4>special offer</h4>
               <h3>
@@ -40,7 +89,7 @@ export const Get_book_section = () => {
                   <small>
                     <TbCurrencyNaira />
                   </small>
-                  5,000
+                  3,500
                 </span>
               </h3>
             </div>
@@ -56,11 +105,6 @@ export const Get_book_section = () => {
                 <p>{secs}</p>
               </div>
               <h5>time left</h5>
-            </div>
-
-            {/* img */}
-            <div className="img_con">
-              <img src={book_image} alt="book image" />
             </div>
 
             <div className="btn_section">
