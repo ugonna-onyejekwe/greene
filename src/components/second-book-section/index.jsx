@@ -36,7 +36,7 @@ export const SecondBookSection = () => {
             </div>
           </div>
 
-          <h2>the alcehemy of fame</h2>
+          <h2>the alchemy of fame</h2>
 
           <div className="txt">
             <p>
