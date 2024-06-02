@@ -1,49 +1,49 @@
 export const book_content_info = [
-  "The future of the internet",
+  "The future of the internet.",
 
   "Where the money is, today.",
 
-  "The attention economy",
+  "The attention economy.",
 
-  "The historical evolution of the attention economy",
+  "The historical evolution of the attention economy.",
 
-  "Money, Power and influence: The value of what people's attention can get you",
+  "Money, Power and influence: The value of what people's attention can get you.",
 
-  "Choosing the right platform to farm attention and build a strong following",
+  "Choosing the right platform to farm attention and build a strong following.",
 
-  "The algorith",
+  "The algorithm.",
 
-  "Social media algorithms by platform",
+  "Social media algorithms by platform.",
 
-  "10 tips for staying ahead of the algorithm and optimizing your content",
+  "10 tips for staying ahead of the algorithm and optimizing your content.",
 
-  "The art of branding",
+  "The art of branding.",
 
-  "Refined steps to build an online brand for yourself, your business or a product",
+  "Refined steps to build an online brand for yourself, your business or a product.",
 
-  'Using your physical "super" trait for easy attention',
+  'Using your physical "super" trait for easy attention.',
 
-  "Utilizing the theory of modelling to brand yourself",
+  "Utilizing the theory of modelling to brand yourself.",
 
-  "The science of subconscious branding",
+  "The science of subconscious branding.",
 
-  "The art of creating attention grabbing video content",
+  "The art of creating attention grabbing video content.",
 
-  "Emotional branding/content creation",
+  "Emotional branding/content creation.",
 
-  "Element of good content creation",
+  "Element of good content creation.",
 
-  "Understanding the different human emotions, triggers and how to perfectly express them in your content",
+  "Understanding the different human emotions, triggers and how to perfectly express them in your content.",
 
-  "Application of emotional states in creating  contents",
+  "Application of emotional states in creating  contents.",
 
-  "Energy are contagious: The psychology",
+  "Energy are contagious: The psychology.",
 
-  "Know the game and let the game know you",
+  "Know the game and let the game know you.",
 
-  "Case study: The Tate model of branding",
+  "Case study: The Tate model of branding.",
 
-  "Facebook moneitization in Nigeria: A comprehesive guide",
+  "Facebook moneitization in Nigeria: A comprehesive guide.",
 ];
 
 export const bookBenefits = [
