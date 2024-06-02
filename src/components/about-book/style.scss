@@ -95,6 +95,12 @@
           }
         }
       }
+
+      @media (max-width: 500px) {
+        h2 {
+          font-size: 17px;
+        }
+      }
     }
 
     .book_benefit_section {
@@ -166,6 +172,12 @@
           text-transform: capitalize;
           font-size: 15px;
           cursor: pointer;
+        }
+      }
+
+      @media (max-width: 500px) {
+        h2 {
+          font-size: 17px;
         }
       }
     }

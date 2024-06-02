@@ -5,8 +5,8 @@
     padding: 100px 0;
 
     p {
-      &:first-child {
-        padding-bottom: 25px;
+      &:nth-child(2) {
+        padding: 25px 0;
       }
       &:last-child {
         padding-top: 25px;

@@ -7,14 +7,19 @@ export const Intro_section = () => {
     <section className="intro_section">
       <div className="container">
         <p>
-          In a race, every athlete aims to win. However, victory doesn't go to
-          the one with the best aspirations or goals, but to the one with the
-          most effective system, strategy, and structure. The same applies to
-          life in general and on social media. It's not about how fast you go,
-          but how well you execute. Everyone's goal is to be famous, well-known,
-          successful, and to stand out from the crowd. But it's not about having
-          the best goal. Those who actually win are the ones with the best
-          strategy, quality information, and top-notch skills.
+          In a race, every athlete's goal is to win. However, victory doesn't go
+          to the one with the best aspirations or goals, but to the one with the
+          most effective system, strategy, and structure.
+        </p>
+
+        <p>
+          {" "}
+          The same applies to life in general and on social media. It's not
+          about how fast you go, but how well you execute. Everyone's goal is to
+          be famous, well-known, successful, and to stand out from the crowd.
+          But it's not about having the best goal. Those who actually win are
+          the ones with the best strategy, quality information, and top-notch
+          skills.
         </p>
 
         <p>
@@ -100,7 +105,7 @@ export const Intro_section = () => {
           problems and build yourself to stardom.
         </p>
 
-        <p>Here are the detailed benefits this book offers you.</p>
+        <p>Here are some detailed benefits of what this book offers you.</p>
       </div>
     </section>
   );

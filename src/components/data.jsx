@@ -51,6 +51,8 @@ export const bookBenefits = [
 
   "Learn to select the most effective platforms where your target audience is most active and build a strong following.",
 
+  "Learn how to use what you have to get what you want.",
+
   "Learn the essential elements of good content creation to produce attention-grabbing videos.",
 
   "Understand different human emotions and how to use them to create impactful content that resonates with the audience.",
