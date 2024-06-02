@@ -57,8 +57,14 @@
       h2 {
         text-transform: capitalize;
       }
-      p {
+      .txt {
         padding: 20px 0;
+
+        p {
+          &:first-child {
+            padding-bottom: 10px;
+          }
+        }
       }
 
       .btn_section {
@@ -107,9 +113,12 @@
           text-align: center;
         }
 
-        p {
-          text-align: center;
+        .txt {
           padding: 20px 0 40px 0;
+
+          p {
+            text-align: center;
+          }
         }
 
         .btn_section {

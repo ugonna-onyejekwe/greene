@@ -37,25 +37,23 @@ export const SecondBookSection = () => {
           </div>
 
           <h2>the alcehemy of fame</h2>
-          <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Mollitia
-            sint dolores autem dolore exercitationem beatae soluta, inventore
-            perspiciatis rerum tempore nisi facere facilis molestias odio
-            voluptates accusantium nesciunt dolor maxime?
-          </p>
+
+          <div className="txt">
+            <p>
+              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Mollitia
+              sint dolores autem dolore exercitationem beatae soluta, inventore
+              perspiciatis rerum tempore nisi facere facilis molestias odio
+              voluptates accusantium nesciunt dolor maxime?
+            </p>
+
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam
+              nisi fuga doloremque, sed consectetur dolorum iusto .
+            </p>
+          </div>
 
           <div className="img_con">
             <img src={book2} alt="book image" />
-          </div>
-
-          <div className="btn_section">
-            <h3>
-              <span>
-                <TbCurrencyNaira />
-              </span>
-              3,000
-            </h3>
-            <button>buy</button>
           </div>
         </div>
       </div>

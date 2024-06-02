@@ -1,46 +1,83 @@
 export const book_content_info = [
-  "The future in your hands",
-  "Where is the money",
+  "The future of the internet",
+
+  "Where the money is, today.",
+
   "The attention economy",
+
   "The historical evolution of the attention economy",
-  "Money, power and influence: The value of what people's attention can get you",
+
+  "Money, Power and influence: The value of what people's attention can get you",
+
   "Choosing the right platform to farm attention and build a strong following",
-  "The algorithm",
+
+  "The algorith",
+
   "Social media algorithms by platform",
+
   "10 tips for staying ahead of the algorithm and optimizing your content",
+
   "The art of branding",
+
   "Refined steps to build an online brand for yourself, your business or a product",
+
   'Using your physical "super" trait for easy attention',
+
   "Utilizing the theory of modelling to brand yourself",
+
   "The science of subconscious branding",
+
   "The art of creating attention grabbing video content",
+
   "Emotional branding/content creation",
+
   "Element of good content creation",
-  "Understanding  different human emotion, tiggers and expressions",
-  "Application of emotional states in contents",
+
+  "Understanding the different human emotions, triggers and how to perfectly express them in your content",
+
+  "Application of emotional states in creating  contents",
+
   "Energy are contagious: The psychology",
+
   "Know the game and let the game know you",
+
   "Case study: The Tate model of branding",
+
   "Facebook moneitization in Nigeria: A comprehesive guide",
 ];
 
 export const bookBenefits = [
-  "mentoring",
-  "teaching",
-  "advicing",
-  "Facebook",
-  "whatsApp",
-  "instagrem",
-  "mentoring",
-  "teaching",
-  "advicing",
-  "Facebook",
-  "whatsApp",
-  "instagrem",
-  "mentoring",
-  "teaching",
-  "advicing",
-  "Facebook",
-  "whatsApp",
-  "instagrem",
+  "Gain insights into the attention economy and learn how to leverage it for financial gain and influence.",
+
+  "Learn to select the most effective platforms where your target audience is most active and build a strong following.",
+
+  "Learn the essential elements of good content creation to produce attention-grabbing videos.",
+
+  "Understand different human emotions and how to use them to create impactful content that resonates with the audience.",
+
+  "Learn how to effectively play the digital branding and attention game.",
+
+  "Study the Tate Model of Branding as a real-life case study to understand successful branding strategies.",
+
+  "Gain the confidence to showcase your unique talents and traits, and overcome self-doubt.",
+
+  "Learn how to use your personality, skills, talents, hobbies, and even physical attributes and strengths to draw attention and build a strong personal or business brand.",
+
+  "Understand the historical evolution and current dynamics of the attention economy. Learn how to leverage people's attention to gain money, power, and influence.",
+
+  "Get expert advice on selecting the most effective platforms for your goals. Understand where to focus your efforts to build a strong following and maximize your reach.",
+
+  "Learn the intricacies of social media algorithms for different platforms. Get 10 actionable tips to stay ahead of the algorithm changes and optimize your content for maximum visibility.",
+
+  "Follow refined steps to build a compelling online brand for yourself, your business, or your product. ",
+
+  "Learn the theory of modeling and subconscious branding to make a lasting impression.",
+
+  "Understand the psychology of emotions and how they influence your audience. Learn how to create viral content that resonates deeply with your fans by tapping into different emotional triggers.",
+
+  "Learn to be resourceful and innovative with whatever tools and environments you have. Whether you have high-end gadgets or just basic equipment, discover how to create compelling content.",
+
+  "Get a detailed guide on how to monetize your presence on Facebook specifically in the Nigerian market. Learn the nuances and strategies that work best in this context.",
+
+  "Learn where the modern wealth is hidden.",
 ];

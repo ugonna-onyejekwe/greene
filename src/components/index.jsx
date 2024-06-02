@@ -6,6 +6,7 @@ import { Get_book_section } from "./get-book";
 import { Footer_section } from "./footer";
 import { NavBar_section } from "./navbar";
 import { SecondBookSection } from "./second-book-section/index.jsx";
+import { Intro_section } from "./intro-section/index.jsx";
 
 export {
   Home,
@@ -16,4 +17,5 @@ export {
   Get_book_section,
   Footer_section,
   SecondBookSection,
+  Intro_section,
 };

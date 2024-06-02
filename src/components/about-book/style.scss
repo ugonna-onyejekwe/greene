@@ -1,14 +1,15 @@
 @import "../../variables.scss";
 
 .about_book {
-  margin-top: 150px;
+  padding: 100px 0;
+  background: whitesmoke;
 
   .container {
     display: flex;
     gap: 30px;
 
     .book_content_section {
-      flex: 2;
+      flex: 1;
 
       h2 {
         text-transform: capitalize;
@@ -48,7 +49,7 @@
               transparent,
               transparent,
               transparent,
-              white
+              whitesmoke
             );
           }
 
@@ -110,7 +111,7 @@
         padding: 20px;
 
         .main_wrapper {
-          height: 300px;
+          height: 380px;
           overflow: hidden;
           position: relative;
 
@@ -135,23 +136,21 @@
               transparent,
               transparent,
               transparent,
-              white
+              whitesmoke
             );
           }
 
           p {
             display: flex;
-            align-items: center;
             gap: 15px;
-            text-transform: capitalize;
 
             &:not(:last-child) {
               padding-bottom: 20px;
             }
 
             span {
-              line-height: 0;
               font-size: 15px;
+              padding-top: 3px;
             }
           }
         }
@@ -175,9 +174,5 @@
       flex-direction: column-reverse;
       gap: 50px;
     }
-  }
-
-  @media (max-width: 1024px) {
-    margin-top: 100px;
   }
 }

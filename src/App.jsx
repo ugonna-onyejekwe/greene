@@ -9,6 +9,7 @@ import {
   NavBar_section,
   Reviews_section,
   SecondBookSection,
+  Intro_section,
 } from "./components";
 
 function App() {
@@ -20,6 +21,9 @@ function App() {
       {/* home section */}
       <Home />
 
+      {/* Intro section */}
+      <Intro_section />
+
       {/* About book section  */}
       <About_book_section />
 
@@ -29,11 +33,11 @@ function App() {
       {/* Testimonial section  */}
       <Reviews_section />
 
-      {/* buy book section */}
-      <Get_book_section />
-
       {/* second book section */}
       <SecondBookSection />
+
+      {/* buy book section */}
+      <Get_book_section />
 
       {/* footer section */}
       <Footer_section />
