@@ -13,6 +13,7 @@
 
       h2 {
         text-transform: capitalize;
+        font-size: 25px;
       }
 
       .main_wrapper {
@@ -99,6 +100,7 @@
       flex: 1;
       h2 {
         text-transform: capitalize;
+        font-size: 25px;
       }
 
       .wrapper {
@@ -168,7 +170,7 @@
 
     @media (max-width: 1024px) {
       flex-direction: column-reverse;
-      gap: 50px;
+      gap: 80px;
     }
   }
 }
