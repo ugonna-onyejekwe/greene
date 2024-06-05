@@ -7,9 +7,9 @@ export const Intro_section = () => {
     <section className="intro_section">
       <div className="container">
         <p>
-          In a race, every athlete's goal is to win. However, victory doesn't go
-          to the one with the best aspirations or goals, but to the one with the
-          most effective system, strategy, and structure.
+          <span></span> In a race, every athlete's goal is to win. However,
+          victory doesn't go to the one with the best aspirations or goals, but
+          to the one with the most effective system, strategy, and structure.
         </p>
 
         <p>

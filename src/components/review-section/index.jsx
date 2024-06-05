@@ -28,11 +28,6 @@ export const Reviews_section = () => {
             slidesPerView={1}
             speed={700}
             className="swiper_wrapper"
-            breakpoints={{
-              768: {
-                slidesPerView: 2,
-              },
-            }}
           >
             {/* swipper 1 */}
             <SwiperSlide className="box">

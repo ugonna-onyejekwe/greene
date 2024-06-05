@@ -34,17 +34,23 @@ export const Get_book_section = () => {
         <div className="container">
           <div className="txt_con">
             <h2>take action now</h2>
-            <p className="txt">
-              The future depends on what you do today. Don't miss out on the
-              chance to transform your Facebook, and Instagram presence into a
-              thriving business and a substantial stream of income. This is your
-              opportunity to turn your passion, talent, creativity and hobbies
-              into influence, wealth and impact. Secure your copy today, which
-              comes along with the bonus book ( the alchemy of wealth) at a
-              discounted prize of 3500. And take control of your personal
-              growth, vision and brand idea, immediately.
-              <br /> Make purchases while offers and bonuses still last.
-            </p>
+            <div className="txt">
+              <p>
+                <span></span> The future depends on what you do today. Don't
+                miss out on the chance to transform your Facebook, and Instagram
+                presence into a thriving business and a substantial stream of
+                income. This is your opportunity to turn your passion, talent,
+                creativity and hobbies into influence, wealth and impact.
+              </p>
+              <p>
+                {" "}
+                <span> </span>Secure your copy today, which comes along with the
+                bonus book ( the alchemy of wealth) at a discounted prize of
+                3500. And take control of your personal growth, vision and brand
+                idea, immediately.
+                <br /> Make purchases while offers and bonuses still last.
+              </p>
+            </div>
 
             {/* img swipper */}
             <div className="img_wrapper">

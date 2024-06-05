@@ -16,7 +16,7 @@
 
     .txt_con {
       padding-right: 500px;
-      padding-top: 120px;
+      padding-top: 90px;
       padding-bottom: 120px;
 
       .rating_section {
@@ -71,6 +71,7 @@
       }
       .txt {
         padding: 20px 0;
+        line-height: 25px;
 
         p {
           &:first-child {
@@ -171,6 +172,8 @@
       p {
         display: flex;
         gap: 10px;
+        line-height: 25px;
+        line-height: 25px;
 
         span {
           font-size: 16px;
