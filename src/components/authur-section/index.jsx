@@ -11,6 +11,7 @@ export const Authur_section = () => {
           <div className="img_con">
             <img src={authur_image} alt="authur image" />
           </div>
+
           <div className="txt_con">
             <h2>about authur</h2>
             <p>

@@ -15,6 +15,11 @@
       &:last-child {
         padding-top: 25px;
       }
+      &.bold {
+        font-size: 16px;
+        padding-top: 25px;
+        font-weight: 700;
+      }
     }
 
     ul {

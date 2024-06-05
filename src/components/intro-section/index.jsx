@@ -28,7 +28,7 @@ export const Intro_section = () => {
           Internet.
         </p>
 
-        <p>What's holding you back?</p>
+        <p className="bold">What's holding you back?</p>
 
         <ul>
           <li>

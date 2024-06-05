@@ -15,7 +15,7 @@ export const SecondBookSection = () => {
         <div className="container">
           <div className="txt_con">
             <div className="bouns_section">
-              <h5>book bouns </h5>
+              <h5>book bonus </h5>
             </div>
 
             <div className="rating_section">

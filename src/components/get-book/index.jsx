@@ -46,8 +46,8 @@ export const Get_book_section = () => {
                 {" "}
                 <span> </span>Secure your copy today, which comes along with the
                 bonus book ( the alchemy of wealth) at a discounted prize of
-                3500. And take control of your personal growth, vision and brand
-                idea, immediately.
+                #3500. And take control of your personal growth, vision and
+                brand idea, immediately.
                 <br /> Make purchases while offers and bonuses still last.
               </p>
             </div>
