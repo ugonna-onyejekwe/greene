@@ -14,10 +14,13 @@ export const Authur_section = () => {
           <div className="txt_con">
             <h2>about authur</h2>
             <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Delectus
-              cupiditate dignissimos deserunt, doloribus tempora possimus dolore
-              at incidunt nulla omnis laboriosam est quaerat asperiores
-              assumenda culpa. Asperiores accusantium iusto dolore!
+              Victor Greene (Echezona) is a young digital entrepreneur, author,
+              Thought leader and a Brand psychologist for two reputable firms in
+              Nigeria. He's a perpetual learner committed to empowering
+              individuals to achieve financial success and personal growth. With
+              a keen eye for spotting opportunities and a deep understanding of
+              human psychology, Victor provides readers with the knowledge and
+              tools needed to thrive in today’s dynamic world.
             </p>
             <h4>victor greene echezona.</h4>
 

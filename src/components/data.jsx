@@ -44,6 +44,8 @@ export const book_content_info = [
   "Case study: The Tate model of branding.",
 
   "Facebook moneitization in Nigeria: A comprehesive guide.",
+
+  "Few stuffs that can stop you from getting monetized on facebook.",
 ];
 
 export const bookBenefits = [

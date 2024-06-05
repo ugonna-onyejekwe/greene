@@ -41,10 +41,11 @@ export const Reviews_section = () => {
               </div>
 
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Necessitatibus aliquam ipsam, tenetur maiores amet esse vitae
-                voluptas aspernatur deleniti odio dolor blanditiis beatae,
-                mollitia dolore repudiandae quos quibusdam recusandae cumque!
+                Victor’s journey into wealth creation, branding, and content
+                creation began with his quest for personal and professional
+                development. Through extensive study of business, economics,
+                psychology, and technology, he has crafted innovative strategies
+                that blend traditional principles with modern trends.
               </p>
 
               <div className="avatar_section">
@@ -63,10 +64,14 @@ export const Reviews_section = () => {
               </div>
 
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Necessitatibus aliquam ipsam, tenetur maiores amet esse vitae
-                voluptas aspernatur deleniti odio dolor blanditiis beatae,
-                mollitia dolore repudiandae quos quibusdam recusandae cumque!
+                In his books, Victor shares his insights on two crucial aspects
+                of modern entrepreneurship. His wealth creation book explores
+                the intricacies of identifying and capitalizing on opportunities
+                that fulfill higher human needs, offering readers a pathway to
+                significant financial success. His book on social media branding
+                and content creation delivers actionable strategies for building
+                a powerful online presence and engaging with audiences
+                meaningfully.
               </p>
 
               <div className="avatar_section">
@@ -85,32 +90,11 @@ export const Reviews_section = () => {
               </div>
 
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Necessitatibus aliquam ipsam, tenetur maiores amet esse vitae
-                voluptas aspernatur deleniti odio dolor blanditiis beatae,
-                mollitia dolore repudiandae quos quibusdam recusandae cumque!
-              </p>
-
-              <div className="avatar_section">
-                <div className="img_con">
-                  <img src={authur_image} alt="avaater image" />
-                </div>
-                <h3>ugonna innocent</h3>
-                <small>blogger</small>
-              </div>
-            </SwiperSlide>
-
-            {/* swipper 4 */}
-            <SwiperSlide className="box">
-              <div className="quote_icon">
-                <FaQuoteLeft />
-              </div>
-
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Necessitatibus aliquam ipsam, tenetur maiores amet esse vitae
-                voluptas aspernatur deleniti odio dolor blanditiis beatae,
-                mollitia dolore repudiandae quos quibusdam recusandae cumque!
+                Victor’s writing is known for its clarity, practical advice, and
+                motivational tone. He believes that with the right mindset and
+                knowledge, anyone can achieve greatness. Through his work, he
+                aims to inspire and guide readers on their journeys toward
+                financial independence and professional excellence.
               </p>
 
               <div className="avatar_section">

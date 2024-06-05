@@ -33,13 +33,17 @@ export const Get_book_section = () => {
       <div className="get_book_section" id="get-book">
         <div className="container">
           <div className="txt_con">
-            <h2>learn to build your brand</h2>
+            <h2>take action now</h2>
             <p className="txt">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde
-              deserunt ipsum quas neque voluptas pariatur exercitationem quia,
-              verit ipsum quas neque voluptas pariatur exercitationem quia,
-              verit ipsum quas neque voluptas pariatur exercitationem quia,
-              verit
+              The future depends on what you do today. Don't miss out on the
+              chance to transform your Facebook, and Instagram presence into a
+              thriving business and a substantial stream of income. This is your
+              opportunity to turn your passion, talent, creativity and hobbies
+              into influence, wealth and impact. Secure your copy today, which
+              comes along with the bonus book ( the alchemy of wealth) at a
+              discounted prize of 3500. And take control of your personal
+              growth, vision and brand idea, immediately.
+              <br /> Make purchases while offers and bonuses still last.
             </p>
 
             {/* img swipper */}
