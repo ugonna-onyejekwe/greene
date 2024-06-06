@@ -14,7 +14,7 @@ export const About_book_section = () => {
       <section className="about_book" id="about-book">
         <div className="container">
           <div className="book_content_section">
-            <h2>few book chapters to look forward to</h2>
+            <h2>few chapters to look forward to</h2>
 
             <div className={"main_wrapper"}>
               <div className={showMoreContent ? "wrapper active " : "wrapper"}>
