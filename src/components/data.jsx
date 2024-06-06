@@ -51,17 +51,19 @@ export const bookBenefits = [
 
   "Learn how to use your personality, skills, talents, hobbies, and even physical attributes and strengths to draw attention and build a strong personal or business brand.",
 
-  "Understand the historical evolution and current dynamics of the attention economy. Learn how to leverage people's attention to gain money, power, and influence.",
+  "Understand the historical evolution  of the attention economy.",
 
-  "Learn the intricacies of social media algorithms for different platforms. Get 10 actionable tips to stay ahead of the algorithm changes and optimize your content for maximum visibility.",
+  "Learn how to leverage people's attention to gain money, power, and influence.",
+
+  "Learn how the algorithm of different social media platforms works and how to make it favour you.",
 
   "Follow refined steps to build a compelling online brand for yourself, your business, or your product. ",
+
+  "Learn where the modern wealth is hidden.",
 
   "Understand the psychology of emotions and how they influence your audience. Learn how to create viral content that resonates deeply with your fans by tapping into different emotional triggers.",
 
   "Get a detailed guide on how to monetize your presence on Facebook specifically in the Nigerian market. Learn the nuances and strategies that work best in this context.",
-
-  "Learn where the modern wealth is hidden.",
 ];
 
 export const bookBenefits2 = [
