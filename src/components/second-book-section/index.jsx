@@ -46,19 +46,28 @@ export const SecondBookSection = () => {
               </div>
             </div>
 
-            <h2>the alchemy of fame</h2>
+            <h2>the alchemy of wealth</h2>
 
             <div className="txt">
               <p>
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                Mollitia sint dolores autem dolore exercitationem beatae soluta,
-                inventore perspiciatis rerum tempore nisi facere facilis
-                molestias odio voluptates accusantium nesciunt dolor maxime?
+                When you purchase our comprehensive guide on mastering the art
+                of branding & content creation, to get monetized, you’ll also
+                receive an invaluable bonus: our exclusive ebook on wealth
+                creation.
               </p>
 
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam
-                nisi fuga doloremque, sed consectetur dolorum iusto .
+                This is bonus ebook provides a deep dive into the essence of
+                wealth creation. It equips you with the knowledge and tools to
+                not only succeed in your branding efforts but also to unlock new
+                avenues of financial and personal growth.
+              </p>
+
+              <p>
+                In many ways, this wealth creation guide can be even more
+                beneficial to you than the main book itself, elevating your
+                financial and personal achievements to new heights. Don’t miss
+                this transformative opportunity!
               </p>
             </div>
 

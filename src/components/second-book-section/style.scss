@@ -16,7 +16,7 @@
 
     .txt_con {
       padding-right: 500px;
-      padding-top: 90px;
+      padding-top: 50px;
       padding-bottom: 120px;
 
       .rating_section {
@@ -75,8 +75,8 @@
         line-height: 22px;
 
         p {
-          &:first-child {
-            padding-bottom: 10px;
+          &:not(:first-child) {
+            padding-top: 10px;
           }
         }
       }
@@ -86,7 +86,7 @@
       }
     }
 
-    @media (max-width: 900px) {
+    @media (max-width: 1000px) {
       .img_con {
         position: relative;
         max-width: 300px;
