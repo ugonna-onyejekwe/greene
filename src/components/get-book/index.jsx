@@ -118,7 +118,9 @@ export const Get_book_section = () => {
             </div>
 
             <div className="btn_section">
-              <button>buy now</button>
+              <a href="https://wa.me/08124698185" target="_blank">
+                <button>buy now</button>
+              </a>
             </div>
           </div>
         </div>
