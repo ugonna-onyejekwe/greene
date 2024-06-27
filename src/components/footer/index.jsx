@@ -2,7 +2,6 @@ import "./style.scss";
 
 import { FaFacebookF, FaWhatsapp } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
-import { NavLink } from "react-router-dom";
 
 export const Footer_section = () => {
   return (
@@ -13,24 +12,25 @@ export const Footer_section = () => {
             <h1>Greene</h1>
 
             <div className="socails">
-              <span>
+              <a href="https://wa.me/08124698185" target="_blank">
                 <FaWhatsapp />
-              </span>
-              <span>
-                <FaXTwitter />
-              </span>
-              <span>
+              </a>
+
+              <a
+                href="https://www.facebook.com/profile.php?id=61550041971624"
+                target="_blank"
+              >
                 <FaFacebookF />
-              </span>
+              </a>
             </div>
           </div>
 
           <div className="part2">
             <div className="links">
-              <NavLink to="#">home</NavLink>
-              <NavLink to="#">about book</NavLink>
-              <NavLink to="#">author</NavLink>
-              <NavLink to="#">reviews</NavLink>
+              <a href="#home">home</a>
+              <a href="#about-book">about book</a>
+              <a href="#author">author</a>
+              <a href="#reviews">reviews</a>
             </div>
             <p>&copy; 2024 Greene. All right reserved</p>
           </div>

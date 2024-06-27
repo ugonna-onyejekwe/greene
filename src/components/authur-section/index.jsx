@@ -16,7 +16,7 @@ import "swiper/css/autoplay";
 export const Authur_section = () => {
   return (
     <>
-      <section className="authur_section" id="authur">
+      <section className="authur_section" id="author">
         <div className="container">
           <div className="txt_con">
             <h2>about author</h2>
@@ -26,7 +26,7 @@ export const Authur_section = () => {
                 modules={[Autoplay]}
                 spaceBetween={20}
                 slidesPerView={1}
-                autoplay={{ delay: 9000 }}
+                autoplay={{ delay: 3000 }}
                 speed={1000}
                 // loop={true}
                 className="img_con"
@@ -52,13 +52,14 @@ export const Authur_section = () => {
             <h4>victor greene echezona.</h4>
 
             <div className="socail_section">
-              <a href="#" target="_blank">
+              <a href="https://wa.me/08124698185" target="_blank">
                 <FaWhatsapp className="icon" />
               </a>
-              <a href="#" target="_blank">
-                <FaXTwitter className="icon" />
-              </a>
-              <a href="#" target="_blank">
+
+              <a
+                href="https://www.facebook.com/profile.php?id=61550041971624"
+                target="_blank"
+              >
                 <FaFacebookF className="icon" />
               </a>
             </div>

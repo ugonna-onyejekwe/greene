@@ -26,8 +26,8 @@ export const NavBar_section = () => {
             <a href="#about-book" onClick={() => setIsActive(false)}>
               about book
             </a>
-            <a href="#authur" onClick={() => setIsActive(false)}>
-              authur
+            <a href="#author" onClick={() => setIsActive(false)}>
+              author
             </a>
             <a href="#reviews" onClick={() => setIsActive(false)}>
               reviews{" "}

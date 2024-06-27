@@ -49,8 +49,6 @@ export const Reviews_section = () => {
                 <div className="img_con">
                   <img src={avatar1} alt="avaater image" />
                 </div>
-                <h3>samuel onyeka</h3>
-                <small>coach</small>
               </div>
             </SwiperSlide>
 
@@ -75,8 +73,6 @@ export const Reviews_section = () => {
                 <div className="img_con">
                   <img src={avatar2} alt="avaater image" />
                 </div>
-                <h3>kelvin smith</h3>
-                <small>author</small>
               </div>
             </SwiperSlide>
 
@@ -98,8 +94,6 @@ export const Reviews_section = () => {
                 <div className="img_con">
                   <img src={avatar3} alt="avaater image" />
                 </div>
-                <h3>innocent ugonna </h3>
-                <small>founder of paypenz</small>
               </div>
             </SwiperSlide>
           </Swiper>
