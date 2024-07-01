@@ -2,7 +2,7 @@
 
 .home_section {
   padding-top: 100px;
-  background: $primary_color;
+  background: whitesmoke;
   height: 100vh;
 
   .container {
@@ -22,14 +22,13 @@
       h1 {
         text-transform: uppercase;
         font-size: 35px;
-        color: white;
+        color: $primary_color;
         font-family: $second_font;
         white-space: nowrap;
-        // font-weight: 600;
       }
 
       .briefing {
-        color: rgb(193, 191, 191);
+        color: $primary_color_light;
         padding: 20px 0;
       }
 
@@ -77,8 +76,7 @@
       width: 400px;
       height: fit-content;
       overflow: hidden;
-      box-shadow: -5px 5px 5px rgb(32, 32, 32);
-      // box-shadow: -10px 10px 10px rgb(39, 38, 38);
+      box-shadow: -5px 10px 5px rgb(53, 53, 53);
     }
 
     @media (max-width: 1024px) {

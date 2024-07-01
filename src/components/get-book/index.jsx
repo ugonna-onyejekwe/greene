@@ -1,5 +1,5 @@
 import "./style.scss";
-import book_image from "../../assets/book.jpg";
+import book_image from "../../assets/Book3.jpg";
 import book_image2 from "../../assets/book2.jpg";
 import { useState } from "react";
 import { TbCurrencyNaira } from "react-icons/tb";

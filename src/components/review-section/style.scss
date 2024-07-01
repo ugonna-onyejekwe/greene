@@ -1,57 +1,76 @@
 @import "../../variables.scss";
 
-.testimonial_section {
-  padding: 100px 0;
+// .testimonial_section {
+//   padding: 100px 0;
+//   background: whitesmoke;
+
+//   h2 {
+//     text-align: center;
+//     text-transform: capitalize;
+//   }
+
+//   .swiper_wrapper {
+//     margin-top: 50px;
+
+//     .box {
+//       display: flex;
+//       align-items: center;
+//       justify-content: center;
+//       flex-direction: column;
+
+//       .quote_icon {
+//         font-size: 25px;
+//       }
+
+//       p {
+//         text-align: center;
+//         padding: 20px 0;
+//         line-height: 25px;
+//       }
+
+//       .avatar_section {
+//         display: flex;
+//         align-items: center;
+//         justify-content: center;
+//         flex-direction: column;
+
+//         .img_con {
+//           height: 80px;
+//           width: 80px;
+//           border-radius: 50%;
+//           overflow: hidden;
+//         }
+
+//         h3 {
+//           text-transform: capitalize;
+//           font-size: 17px;
+//           padding-top: 10px;
+//         }
+
+//         small {
+//           text-transform: capitalize;
+//           font-size: 15px;
+//         }
+//       }
+//     }
+//   }
+// }
+
+.review_section {
   background: whitesmoke;
+  padding: 100px 0;
 
   h2 {
     text-align: center;
     text-transform: capitalize;
   }
 
-  .swiper_wrapper {
+  .img_con {
     margin-top: 50px;
+    padding: 0 200px;
 
-    .box {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      flex-direction: column;
-
-      .quote_icon {
-        font-size: 25px;
-      }
-
-      p {
-        text-align: center;
-        padding: 20px 0;
-        line-height: 25px;
-      }
-
-      .avatar_section {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        flex-direction: column;
-
-        .img_con {
-          height: 80px;
-          width: 80px;
-          border-radius: 50%;
-          overflow: hidden;
-        }
-
-        h3 {
-          text-transform: capitalize;
-          font-size: 17px;
-          padding-top: 10px;
-        }
-
-        small {
-          text-transform: capitalize;
-          font-size: 15px;
-        }
-      }
+    @media (max-width: 800px) {
+      padding: 0;
     }
   }
 }
