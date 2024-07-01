@@ -37,7 +37,7 @@ export const book_content_info = [
 ];
 
 export const bookBenefits = [
-  "How  to easily get monetized",
+  "Learn the skill of being a brand manager/influencer",
 
   "Gain insights into the attention economy and learn how to leverage it for financial gain and influence.",
 

@@ -92,7 +92,7 @@ export const Get_book_section = () => {
                   <small>
                     <TbCurrencyNaira />
                   </small>
-                  3,000
+                  2,000
                 </span>
 
                 <span>

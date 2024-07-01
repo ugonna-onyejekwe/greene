@@ -43,35 +43,6 @@ export const Intro_section = () => {
             <span>
               <VscDebugBreakpointLog />
             </span>
-            You don't know how to apply for facebook monetization and what is
-            required of you?
-          </li>
-
-          <li>
-            <span>
-              <VscDebugBreakpointLog />
-            </span>
-            You don't know why you're not eligible yet for monetization?
-          </li>
-
-          <li>
-            <span>
-              <VscDebugBreakpointLog />
-            </span>
-            You are not sure if you will get monetized or not?
-          </li>
-
-          <li>
-            <span>
-              <VscDebugBreakpointLog />
-            </span>
-            You don't have the capital resources to buy certain accessories,
-            gadgets, fine clothing, and apparel to build your brand?
-          </li>
-          <li>
-            <span>
-              <VscDebugBreakpointLog />
-            </span>
             You haven't really discovered what you want to do or be known for on
             social media?
           </li>
