@@ -106,7 +106,7 @@ export const Reviews_section = () => {
     <>
       <section className="review_section">
         <div className="container">
-          <h2>what being a brand manager has gotten me</h2>
+          <h2>this is what being a brand manager has gotten me</h2>
 
           <div className="img_con">
             <img src={email_image} alt="image" />
